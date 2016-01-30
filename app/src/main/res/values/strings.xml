@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimatorFragment</string>
+    <string name="show_another_fragment">next</string>
+    <string name="call_back">back</string>
+</resources>
